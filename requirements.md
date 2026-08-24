@@ -15,7 +15,7 @@ pip install -r requirements.txt
 langchain>=0.3.0
 langchain-core>=0.3.0
 langchain-openai>=0.3.0
-langchain-community>=0.3.0
+langchain-community>=0.3.0,<0.4.0
 langchain-text-splitters>=0.3.0
 langsmith>=0.2.0
 openai>=1.0.0
